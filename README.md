@@ -12,3 +12,5 @@ Here are some screenshots of gameplay:
 ![alt text](https://github.com/slicin/1000CardsBot/blob/master/screenshot1.png "Summoning a monster to the field")
 
 ![alt text](https://github.com/slicin/1000CardsBot/blob/master/screenshot2.png "Interacting with the field")
+
+![alt text](https://github.com/slicin/1000CardsBot/blob/master/screenshot3.png "Taking damage from another player")

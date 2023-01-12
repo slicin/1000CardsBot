@@ -15,4 +15,4 @@ Here are some screenshots of gameplay:
 
 ![alt text](https://github.com/slicin/1000CardsBot/blob/master/screenshot3.png "Taking damage from another player")
 
-*for the card art in this last screenshot, credit goes to my friend [Xag](https://xagu-the-prophet.itch.io/), who also helped with design ideas*
+*for the card art in this last screenshot, credit goes to my friend [Xag](https://xagu-the-prophet.itch.io/), who also helped with design and testing*

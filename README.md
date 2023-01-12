@@ -1,5 +1,5 @@
 # 1000CardsBot
-A discord bot created with the [DSharpPlus library](https://github.com/DSharpPlus/DSharpPlus) that implements the [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards) card game
+A discord bot created with the [DSharpPlus library](https://github.com/DSharpPlus/DSharpPlus) that implements the [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards) card game.
 
 This is a fully playable prototype where multiple players can join the game, be dealt cards, draw/use/discard cards, manipulate the score, as well as add new custom cards to the card catalogue in between games. The bot can only run one game session at a time in this prototype.
 
